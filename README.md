@@ -2,6 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+==>due to time constraints only focussed on the logic and need to do validations and error handling.
+
 ## Available Scripts
 
 In the project directory, you can run:
